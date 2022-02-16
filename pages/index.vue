@@ -1,9 +1,4 @@
 <template>
-
-
-<Curve>
-</Curve>
-
-  
-  
+	<Curve>	
+	</Curve>
 </template>
